@@ -1,5 +1,5 @@
 # Source Code
-Hi! I'm an ex-developer for The Family RP releasing my part of the source code. This is not the full project, but 60+% of the project counted by lines of code ([#](https://i.imgur.com/lHE9VJm.png)) at the time I left in the middle of November. I was planning to release this months ago, but just never got around to it.
+Hi! I'm an ex-developer for The Family RP releasing my part of the source code. This is not the full project, but 60+% of the project counted by lines of code ([#](https://i.imgur.com/lHE9VJm.png)) at the time I left in the middle of November 2017. I was planning to release this months earlier, but just never got around to it.
 
 I have excluded other developers' code from this release as good as I possibly could. (Do contact me if there is something else you would like me to see removed or if I did not credit you.) Due to this, you will have to fill in the gaps yourself or ask nicely.
 
@@ -9,7 +9,7 @@ Expect bugs that are not on the live server--they have been fixed by the other d
 
 **(Interaction) Menu**: This includes the full source for the menu system used on The Family RP. I wanted to write a framework that was able to recreate the vanilla GTA menus and make it as compat as possible, and would say I more than succeeded. Allows for all kinds of extensibility and includes checkboxes, listboxes and anything else you can think of. Includes e.g. the emote menu ([video](https://streamable.com/izku5)) as an example (along with all the other menus listed below.) Allows for quick implementation of everything from shops to settings menus and has over 30 customizable variables out of the box. The difference between this menu system and nearly all others is how it is rendered--this draws the menu directly using primitives, while other menu systems are HTML-based (block Push-to-Talk keys while open, hog FPS...)
 
-**Loading Screen**: As seen on NoPixel and The Family RP ([live browser demo](https://groovygiantpanda.github.io/) or as seen on [The Family](https://streamable.com/7b39u))
+**Loading Screen**: As seen on NoPixel and The Family RP ([live browser demo](https://ossianhanning.github.io/) or as seen on [The Family](https://streamable.com/7b39u))
 
 **Revamped Chat**: As seen on SoE and The Family RP. Modded for multi-line support, scrolling through chat history with scroll wheel/PgUp/PgDn, command history, custom HTML objects and a large number of bug fixes.
 
